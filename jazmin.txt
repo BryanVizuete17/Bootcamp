@@ -1,0 +1,5 @@
+git add <nombre archivo>
+agregar archivo al control del git
+
+git commit -m "Mensaje" <nombre archivo>
+subir el archivo al repositorio local
